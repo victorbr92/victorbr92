@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science** projects, especially related to the democratization of knowledge, NLP applications on societal issues and general machine learning research.
 
-- 📝 Sometime I post some things on [https://victorbr92.github.io/my-blog/](https://victorbr92.github.io/my-blog/)
+- 📝 Sometime I post interesting stuff on [my blog](https://victorbr92.github.io/my-blog/)
 
 - ⚡ Fun fact **I have a purple belt in Jiu-Jitsu!**
 
