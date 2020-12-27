@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A Brazilian/Spanish Data Scientist living in Lisbon, Portugal.</h3>
+<p align="left"> <img src="home.jpg" alt="victorbr92" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorbr92&label=Profile%20views&color=0e75b6&style=flat" alt="victorbr92" /> </p>
 
-- 👯 I’m looking to collaborate on **Data Science** projects, especially related to the democratization of knowledge and machine learning research.
+- 👯 I’m looking to collaborate on **Data Science** projects, especially related to the democratization of knowledge, NLP applications on societal issues and general machine learning research.
 
 - 📝 Sometime I post some things on [https://victorbr92.github.io/my-blog/](https://victorbr92.github.io/my-blog/)
 
